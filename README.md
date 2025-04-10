@@ -1,22 +1,27 @@
-# 👋 Hey, I’m Fuse (cybecoding)
+# 👋 Hey, I’m Fuse aka Cybecoding
 
-🚀 Aspiring Full Stack Dev learning through projects.  
-📍 Currently focused on HTML, CSS, and JavaScript fundamentals.  
-🔨 Building a strong GitHub presence with real projects and documented learning.
+🚀 Aspiring Full Stack Dev focused on React.js and building fast.  
+🛠️ I learn through real projects — building and pushing consistently.  
+📍 Based in NYC, available for freelance and remote work.
 
-## 🧠 Current Focus
-- Refreshing front-end skills (HTML, CSS, JS)
-- Building mini projects to learn by doing
-- Preparing to dive into React, Node, and backend tech
+## 🔥 Current Focus
+- React.js (Fundamentals, Hooks, Components, State)
+- Building full frontend apps from scratch
+- Working toward mastering modern frontend workflows
 
-## 📓 My Learning Journey
-Check out my [web-dev-journey](https://github.com/cybecoding/web-dev-journey) repo where I log my weekly progress and insights.
+## 🧠 Learning Logs
+Check out my [web-dev-journey](https://github.com/cybecoding/web-dev-journey) repo to follow my React dev journey, weekly logs, and concepts I’m practicing.
 
-## 🔧 Skills (So Far)
-- HTML / CSS / JavaScript (Basics)
-- Git + GitHub (Learning fast)
-- VS Code, Chrome DevTools
+## 💻 Projects in Progress
+- To-Do App in React
+- Weather App with API integration
+- Portfolio site built with React
+
+## 🧰 Tech Stack (So Far)
+- React.js • HTML • CSS • JavaScript
+- Git & GitHub • VS Code • Chrome DevTools
+- MacOS Terminal • npm • Homebrew
 
 ---
 
-🛠️ More coming soon. Follow along as I grow!
+⚡ Growing fast — follow along on GitHub and let’s build together.
